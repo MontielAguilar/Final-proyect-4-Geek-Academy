@@ -1,5 +1,7 @@
 # Final Project: Analysis and Prediction of Real Estate Prices in Madrid 🏡📊
-
+<p align="center">
+  <img src="https://www.inglaterra.ws/wp-content/uploads/2021/10/Bandera-de-Reino-Unido.png" alt="Banner" style="border-radius: 90%;">
+</p>
 Welcome to the exciting repository of the final project! Here, skills in web scraping, data science, and urban and real estate law come together to explore and predict housing prices in the amazing city of Madrid.
 
 ## Part 1: Web Scraping from Idealista 🌐🕵️
@@ -24,7 +26,9 @@ It is hoped that this project sparks your interest and proves to be useful. Any 
 
 
 # Proyecto Final: Análisis y Predicción de Precios Inmobiliarios en Madrid 🏡📊
-
+<p align="center">
+  <img src="https://static.vecteezy.com/system/resources/previews/008/070/285/non_2x/spain-flag-icon-in-official-color-and-proportion-correctly-free-vector.jpg" alt="Banner" style="border-radius: 90%;">
+</p>
 ¡Bienvenido al increíble repositorio del proyecto final! Aquí, se fusionan habilidades en web scraping, ciencia de datos y derecho urbanístico e inmobiliario para explorar y predecir los precios de las viviendas en la asombrosa ciudad de Madrid.
 
 ## Parte 1: Web Scraping de Idealista 🌐🕵️
