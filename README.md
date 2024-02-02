@@ -6,7 +6,7 @@ Welcome to the exciting repository of the final project! Here, skills in web scr
 
 ## Part 1: Web Scraping from Idealista 🌐🕵️
 
-In this thrilling first stage, an extensive web scraping of the Idealista platform was carried out to collect real-time data on all available homes in Madrid. Dive into the code and results at [Link 1 - Web Scraping from Idealista](link1).
+In this thrilling first stage, an extensive web scraping of the Idealista platform was carried out to collect real-time data on all available homes in Madrid. Dive into the code and results at [Link 1 - Web Scraping from Idealista](https://github.com/MontielAguilar/Final-proyect-1-web-scraping).
 
 ## Part 2: Prediction Model with Random Forest 🌲🔮
 
@@ -33,7 +33,7 @@ It is hoped that this project sparks your interest and proves to be useful. Any 
 
 ## Parte 1: Web Scraping de Idealista 🌐🕵️
 
-En esta emocionante primera etapa, se llevó a cabo un extenso web scraping de la plataforma Idealista para recolectar datos en tiempo real sobre todas las viviendas disponibles en Madrid. Puedes sumergirte en el código y los resultados en [Link 1 - Web Scraping de Idealista](link1).
+En esta emocionante primera etapa, se llevó a cabo un extenso web scraping de la plataforma Idealista para recolectar datos en tiempo real sobre todas las viviendas disponibles en Madrid. Puedes sumergirte en el código y los resultados en [Link 1 - Web Scraping de Idealista](https://github.com/MontielAguilar/Final-proyect-1-web-scraping)..
 
 ## Parte 2: Modelo de Predicción con Random Forest 🌲🔮
 
