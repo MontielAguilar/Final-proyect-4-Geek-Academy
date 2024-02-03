@@ -22,6 +22,8 @@ This project not only relies on technical skills but also on the author's legal 
 
 It is hoped that this project sparks your interest and proves to be useful. Any questions or suggestions can be directed to the provided contact.
 
+[Access link to the documents for the final project on Google Drive:](https://drive.google.com/drive/folders/11mHF1Hl-Jb1MQVAGLdQZXy57apgeDB10?usp=sharing).
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -49,3 +51,4 @@ Este proyecto no solo se basa en habilidades técnicas, sino también en la expe
 
 Se espera que este proyecto despierte tu interés y sea útil. Cualquier pregunta o sugerencia puede dirigirse al contacto proporcionado.
 
+[link acceso a los documentos del proyecto final en google drive:](https://drive.google.com/drive/folders/11mHF1Hl-Jb1MQVAGLdQZXy57apgeDB10?usp=sharing).
