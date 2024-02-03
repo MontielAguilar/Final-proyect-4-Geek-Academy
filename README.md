@@ -10,7 +10,7 @@ In this thrilling first stage, an extensive web scraping of the Idealista platfo
 
 ## Part 2: Prediction Model with Random Forest 🌲🔮
 
-In this fascinating phase, a predictive model for property prices was developed using the magical Random Forest technique. Explore the code at [Link 2 - Random Forest Model](link2), where you'll also find a Jupyter Notebook with instructions to run the model locally or integrate it into a Streamlit application for an interactive experience.
+In this fascinating phase, a predictive model for property prices was developed using the magical Random Forest technique. Explore the code at [Link 2 - Random Forest Model](https://github.com/MontielAguilar/Final-proyect-2-Madrid), where you'll also find a Jupyter Notebook with instructions to run the model locally or integrate it into a Streamlit application for an interactive experience.
 
 ## Part 3: Fake Ad Verifier with NLP 🤖🕵️‍♂️
 
@@ -39,7 +39,7 @@ En esta emocionante primera etapa, se llevó a cabo un extenso web scraping de l
 
 ## Parte 2: Modelo de Predicción con Random Forest 🌲🔮
 
-En esta fase fascinante, se desarrolló un modelo de predicción de precios de inmuebles utilizando la mágica técnica de Random Forest. Descubre el código en [Link 2 - Modelo de Random Forest](link2), donde también encontrarás un Jupyter Notebook con instrucciones para ejecutar el modelo localmente o integrarlo en una aplicación de Streamlit para una experiencia interactiva.
+En esta fase fascinante, se desarrolló un modelo de predicción de precios de inmuebles utilizando la mágica técnica de Random Forest. Descubre el código en [Link 2 - Modelo de Random Forest](https://github.com/MontielAguilar/Final-proyect-2-Madrid), donde también encontrarás un Jupyter Notebook con instrucciones para ejecutar el modelo localmente o integrarlo en una aplicación de Streamlit para una experiencia interactiva.
 
 ## Parte 3: Verificador de Anuncios Falsos con PLN 🤖🕵️‍♂️
 
