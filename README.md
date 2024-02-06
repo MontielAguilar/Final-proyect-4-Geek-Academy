@@ -1,6 +1,6 @@
 # Final Project: Analysis and Prediction of Real Estate Prices in Madrid 🏡📊
 <p align="center">
-  <img src="https://www.inglaterra.ws/wp-content/uploads/2021/10/Bandera-de-Reino-Unido.png" alt="Banner" style="border-radius: 90%;">
+  <img src="https://us.123rf.com/450wm/ahasoft2000/ahasoft20001806/ahasoft2000180612040/102862888-ondeando-la-bandera-del-estado-del-reino-unido-sobre-un-fondo-negro-los-pictogramas-de-problemas.jpg?ver=6" alt="Banner" style="border-radius: 90%;">
 </p>
 Welcome to the exciting repository of the final project! Here, skills in web scraping, data science, and urban and real estate law come together to explore and predict housing prices in the amazing city of Madrid.
 
@@ -14,7 +14,7 @@ In this fascinating phase, a predictive model for property prices was developed 
 
 ## Part 3: Fake Ad Verifier with NLP 🤖🕵️‍♂️
 
-In this fun third part, a Natural Language Processing (NLP) model was implemented to detect fake ads. Simply paste an ad, and the model will tell you if it's genuine or possibly fraudulent! Explore the code at [Link 3 - Fake Ad Verifier with NLP](link3).
+In this fun third part, a Natural Language Processing (NLP) model was implemented to detect fake ads. Simply paste an ad, and the model will tell you if it's genuine or possibly fraudulent! Explore the code at [Link 3 - Fake Ad Verifier with NLP](https://github.com/MontielAguilar/Final-Proyect-3-npl).
 
 ## Context and Approach 🧠💼
 
@@ -43,7 +43,7 @@ En esta fase fascinante, se desarrolló un modelo de predicción de precios de i
 
 ## Parte 3: Verificador de Anuncios Falsos con PLN 🤖🕵️‍♂️
 
-En esta divertida tercera parte, se implementó un modelo de Procesamiento de Lenguaje Natural (PLN) para detectar anuncios falsos. Simplemente pega un anuncio, ¡y el modelo te dirá si es genuino o posiblemente un fraude! Explora el código en [Link 3 - Verificador de Anuncios Falsos con PLN](link3).
+En esta divertida tercera parte, se implementó un modelo de Procesamiento de Lenguaje Natural (PLN) para detectar anuncios falsos. Simplemente pega un anuncio, ¡y el modelo te dirá si es genuino o posiblemente un fraude! Explora el código en [Link 3 - Verificador de Anuncios Falsos con PLN](https://github.com/MontielAguilar/Final-Proyect-3-npl).
 
 ## Contexto y Enfoque 🧠💼
 
