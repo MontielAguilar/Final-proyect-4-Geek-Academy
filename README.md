@@ -1,5 +1,9 @@
 # Final Project: Analysis and Prediction of Real Estate Prices in Madrid 🏡📊
 
+<a href="https://cdn.pixabay.com/photo/2013/07/13/12/03/flag-159070_1280.png" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.pixabay.com/photo/2013/07/13/12/03/flag-159070_1280.png" height="30" alt="Bandera">
+</a>
+
 Welcome to the exciting repository of the final project! Here, skills in web scraping, data science, and urban and real estate law come together to explore and predict housing prices in the amazing city of Madrid.
 
 ## Part 1: Web Scraping from Idealista 🌐🕵️
